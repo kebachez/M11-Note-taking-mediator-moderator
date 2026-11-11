@@ -380,4 +380,4 @@ Baron, R. M., & Kenny, D. A. (1986). The moderator–mediator variable distincti
 # Appendix {.appendix}
 
 - **GitHub Repository:** [https://github.com/kebachez/M11-Note-taking-mediator-moderator.git](https://github.com/YOUR-USERNAME/YOUR-REPO)
-- **GitHub Pages:** [https://YOUR-USERNAME.github.io/YOUR-REPO/M11_Baron_Kenny.html](https://YOUR-USERNAME.github.io/YOUR-REPO/M11_Baron_Kenny.html)
+- **GitHub Pages:** [https://kebachez.github.io/M11-Note-taking-mediator-moderator/](https://YOUR-USERNAME.github.io/YOUR-REPO/M11_Baron_Kenny.html)
